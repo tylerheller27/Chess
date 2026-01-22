@@ -17,6 +17,8 @@ public class Main {
         window.setLocationRelativeTo(null); // starts program in the center of your screen
         window.setVisible(true); // makes so that the window will actually appear
         //test
+		
+		//test git comment
 
     }//main
 
